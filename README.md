@@ -406,7 +406,7 @@ Remainder when 10 is divided by 3 is: 1
 
 
 <details>
-<summary>📝 Who_Wants_to_be_a_Millionare demo.py</summary>
+<summary>📝 Who_Wants_to_be_a_Millionare demo</summary>
 
 ##
 
@@ -478,4 +478,106 @@ correct!! You won Rs. 1000
   - Skip question
 - Create a GUI version using Tkinter or PySide6.
 
+</details>
+
+
+<details>
+<summary>🥤 Water_Drinking_Notification </summary>
+
+##
+
+A simple Python application that reminds you to drink water every **2 hours** using desktop notifications. The program runs continuously in the background, checks the system time every minute, and displays a reminder at the beginning of every even hour to help users stay hydrated throughout the day.
+
+## Features
+
+-  Desktop notifications for hydration reminders.
+-  Sends reminders every even hour (00:00, 02:00, ..., 22:00).
+-  Continuously monitors the system time.
+-  Uses the `plyer` library for native desktop notifications.
+-  Lightweight and beginner-friendly.
+
+## Technologies Used
+
+- Python
+- Plyer
+
+## How It Works
+
+The application continuously retrieves the current system time using Python's built-in `time` module. Every 60 seconds, it checks whether the current hour is even and the minute is `00`. If both conditions are met, it displays a desktop notification reminding the user to drink water.
+
+## Example Output
+
+**Terminal**
+
+```text
+09 58
+09 59
+10 00
+10 01
+```
+
+**Desktop Notification**
+
+```text
+Title: Drink water!
+
+This is a reminder to drink water.
+Stay hydrated.
+```
+
+## Future Improvements
+
+- Custom reminder intervals
+- Reminder sound
+- System tray integration
+- Automatic startup with Windows
+- Graphical user interface (GUI)
+- Daily water intake tracker
+  
+</details>
+
+<details>
+<summary>🔉 Text_to_Speech</summary>
+
+##
+
+A simple Python program that uses Windows Speech API (SAPI) to congratulate multiple people with text-to-speech.
+
+## Features
+
+- Accepts multiple names from the user
+- Uses `"done"` to finish entering names
+- Speaks a personalized congratulatory message for each person
+- Displays the list of entered names
+- Built using the Windows Speech API (SAPI)
+
+## Technologies Used
+
+- Python 3
+- `pywin32` (`win32com.client`)
+- Loops
+- Lists
+- User input handling
+
+## Requirements
+
+Install the required package:
+
+```bash
+pip install pywin32
+```
+
+> **Note:** This program works only on Windows because it uses the Windows Speech API (SAPI).
+
+## How to Run
+
+```bash
+python congratulations.py
+```
+
+Enter the names you want to congratulate. Type `"done"` when finished, and the program will speak a congratulatory message for each name.
+
+## Note
+
+This project was created as a beginner Python practice project to learn loops, lists, user input handling, external libraries, and text-to-speech using Python.
 </details>
