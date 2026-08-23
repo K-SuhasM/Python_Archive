@@ -8,6 +8,7 @@ Coding challenges, and
 Small projects,
 covering Python fundamentals, problem-solving, and core programming concepts. 
 It documents my progress as I continue to improve my Python skills.
+Beginner friendly.
 ```
 
 
