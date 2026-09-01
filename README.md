@@ -1,6 +1,6 @@
 
 # Python_Archive
-```
+
 A collection of Python programs created throughout my learning journey. 
 This repository contains
 Practice exercises,
@@ -9,7 +9,7 @@ Small projects,
 covering Python fundamentals, problem-solving, and core programming concepts. 
 It documents my progress as I continue to improve my Python skills.
 Beginner friendly...
-```
+
 
 
 
