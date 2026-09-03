@@ -15,7 +15,7 @@ Beginner friendly...
 
 <details>
 
-<summary>🧮 Advanced_Calculator</summary> 
+<summary>Advanced_Calculator</summary> 
 
 ##
 
@@ -57,7 +57,7 @@ This project was created as a beginner Python practice project to improve unders
 
 
 <details>
-<summary>🕵 Code_Language_Encode_Decode</summary>
+<summary>Code_Language_Encode_Decode</summary>
 
 ##
 
@@ -104,7 +104,7 @@ This project was built as a beginner Python exercise to practice string manipula
 
 
 <details>
-<summary>👋 Time_Based_Greeting</summary>
+<summary>Time_Based_Greeting</summary>
 
 ##
 
@@ -160,7 +160,7 @@ else:
 
 
 <details>
-<summary>🪪 Age_Eligibility_Checker</summary>
+<summary>Age_Eligibility_Checker</summary>
 
 ##
 
@@ -208,7 +208,7 @@ The driving and drinking checks are independent. Even after checking whether the
 
 
 <details>
-<summary>🏛 Library_Management_System</summary>
+<summary>Library_Management_System</summary>
 
 ##
 
@@ -276,7 +276,7 @@ The total amount of books in the library is 1.
 
 
 <details>
-<summary>🪨 Rock_Paper_Scissors</summary>
+<summary>Rock_Paper_Scissors</summary>
 
 ##
 
@@ -345,7 +345,7 @@ Computer Wins!!!
 
 
 <details>
-<summary>🔢 Simple_Calculator</summary>
+<summary>Simple_Calculator</summary>
 
 ##
 
@@ -407,7 +407,7 @@ Remainder when 10 is divided by 3 is: 1
 
 
 <details>
-<summary>📝 Who_Wants_to_be_a_Millionare demo</summary>
+<summary>Who_Wants_to_be_a_Millionare demo</summary>
 
 ##
 
@@ -483,7 +483,7 @@ correct!! You won Rs. 1000
 
 
 <details>
-<summary>🥤 Water_Drinking_Notification </summary>
+<summary>Water_Drinking_Notification </summary>
 
 ##
 
@@ -538,7 +538,7 @@ Stay hydrated.
 </details>
 
 <details>
-<summary>🔉 Text_to_Speech</summary>
+<summary>Text_to_Speech</summary>
 
 ##
 
